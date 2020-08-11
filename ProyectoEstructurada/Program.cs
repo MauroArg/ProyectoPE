@@ -11,6 +11,7 @@ namespace ProyectoEstructurada
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
+        /// Prueba
         [STAThread]
         static void Main()
         {
